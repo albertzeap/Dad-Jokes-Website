@@ -1,0 +1,49 @@
+body {
+    font-family: "Arbutus Slab", serif;
+    background: #eee;
+  }
+
+  #singleJoke {
+    text-align: center;
+  }
+
+  #jokeButton {
+    margin: 100px 10px;
+    padding: 20px 20px;
+    text-align: center;
+  }
+
+  #jokeButton:hover {
+    transform: scale(1.07);
+  }
+
+  #joke {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-weight: bold;
+    border-bottom: white solid 1px;
+    margin-bottom: 70vh;
+    text-align: center;
+    
+  }
+  
+  #listedJoke {
+    text-align: center;
+    width: 100%;
+  }
+
+  #jokePage {
+    text-align: left;
+    font-size: 1em;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  }
+
+  #jokePageButton{
+    margin: 100px 10px;
+    padding: 20px 20px;
+    text-align: center;
+  }
+  #jokePageButton:hover {
+    transform: scale(1.07);
+  }
